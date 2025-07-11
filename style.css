@@ -35,24 +35,75 @@ html,body{
     border: 1.5px solid black;
     padding: 5px 10px;
     border-radius:50px ;
-    font-weight: 500;
+    font-weight: 600;
 }
 #nav i{
     font: 15px;
     border: 1.5px solid black;
     padding: 5px 10px;
     border-radius:50px ;
-    font-weight: 500;
+    font-weight: 600;
 }
 #nav h1{
-    font-weight: 1000;
-    font-size: 30px;
+    font-weight: bold;
+    font-size: 22px;
     text-transform: uppercase;
 }
 #nav button{
     padding: 7px 12px;
     border: 1.5px solid black;
     border-radius: 50px;
-    font-weight: 1000;
-
+    font-weight: 600;
+    background-color: white;
+}
+#btn2{
+    background-color: orangered !important;
+    color: white;
+    border: none;
+}
+#content{
+    font-size: 170px;
+    text-transform:uppercase ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 350px;
+    object-fit: cover;
+    position: absolute;
+    border-radius: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#img1{
+    transform: translate(-50%,-50%)rotate(-40deg);  
+}
+#img2{
+    transform: translate(-50%,-50%)rotate(-30deg);  
+}
+#img3{
+    transform: translate(-50%,-50%)rotate(-20deg);  
+}
+#img4{
+    transform: translate(-50%,-50%)rotate(-10deg);  
+}
+#btm-left{
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    font-size: 20px;
+}
+#btm-right{
+    position: absolute;
+    display: flex;
+    bottom: 5%;
+    right: 5%;
+    font-size: 20px;
+    gap: 15px;
 }
