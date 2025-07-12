@@ -14,4 +14,8 @@ Project1/
 ├── index.html
 ├── style.css
 
+## How to Run
+1. Clone the repo
+2. Open `index.html` in your browser
+
 
