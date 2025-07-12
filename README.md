@@ -7,6 +7,7 @@ A simple frontend project built using **HTML**, **CSS**, and **JavaScript**.
 - CSS3
 ## 📅 Daily Progress Log
 - ✅ Day 1: Project Initialized, basic layout added
+- ✅ Day 2 : Added Design and photos to the web page
 
 ## 📁 Folder Structure
 Project1/
