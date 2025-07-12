@@ -1,6 +1,6 @@
 Project1 💻
 
-A simple frontend project built using **HTML**, **CSS**, and **JavaScript**.
+A simple frontend project built using **HTML**, **CSS**.
 
 ## 🚀 Tech Used
 - HTML5
